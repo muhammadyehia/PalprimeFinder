@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29102.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{242018D3-9783-410B-9B45-C02AD55FE3E7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalprimeFinder", "ConsoleApp1\PalprimeFinder.csproj", "{242018D3-9783-410B-9B45-C02AD55FE3E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
